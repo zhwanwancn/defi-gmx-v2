@@ -228,6 +228,10 @@ Please refer to this for an in-depth explanation of the content:
     - [Starter code](./foundry/src/exercises/app/Vault.sol)
     - [Solution](./foundry/src/solutions/app/Vault.sol)
 
+## Updates
+- [GMX Express](./notes/gmx_express.md)
+- [TWAP](./notes/twap.md)
+
 ## Resources
 
 ### Transactions
