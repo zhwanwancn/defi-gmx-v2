@@ -20,3 +20,5 @@ GMX Express Trading is one of the trading modes available on GMX that improves t
 ## How to Express Trading?
 1. Open [GMX app](https://app.gmx.io/)
 2. Click on Setting on the top right of the screen. Navigate to Trading Settings tab and selet "Express".
+
+![GMX Express settings](https://github.com/Cyfrin/defi-gmx-v2/blob/updates/notes/express.png?raw=true)
